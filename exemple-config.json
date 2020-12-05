@@ -1,0 +1,10 @@
+{ 
+  "botOwner" : "<tonDiscordID>",  
+  "token"  : "<bot-token>",
+  "prefix" : "!",
+  "webURL" : "https://www.ilikeradio.se/",
+  "apiURL" : "https://app.khz.se/api/v2/",
+  "cdnURL" : "http://cdn.khz.se/images/",
+  "logoPath" : "/wp-content/themes/ilikeradio/assets/images/logo-ilikeradio.png",
+  "debug" : false
+}
